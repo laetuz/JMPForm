@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JMPForm</string>
+    <string name="laki">Laki</string>
+    <string name="perem">Perempuan</string>
+</resources>
